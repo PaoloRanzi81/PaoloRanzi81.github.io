@@ -1,8 +1,9 @@
 ```markdown
-
-The present webpage is a link to Paolo Ranzi's Git Hub account (https://github.com/PaoloRanzi81/).
-The creation of the webpage was necessary in order to make Paolo Ranzi's Git Hub repositories being
-indexed by Google. Please clik on the link to access Paolo Ranzi's Git Hub account.
+https://github.com/PaoloRanzi81/
+The present webpage is a link to Paolo Ranzi's Git Hub account.The creation of the webpage was necessary 
+in order to make Paolo Ranzi's Git Hub repositories being indexed by Google. Please copy and paste 
+URL above/below in order to access Paolo Ranzi's Git Hub account.
+https://github.com/PaoloRanzi81/
 ```
 
 
@@ -10,12 +11,4 @@ indexed by Google. Please clik on the link to access Paolo Ranzi's Git Hub accou
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PaoloRanzi81/PaoloRanzi81.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
